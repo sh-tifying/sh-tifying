@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working webdev<br>Studying B.Tech from IEM Kolkata on C.S.<br> Looking to collaborate
+Currently working webdev<br>Studying B.Tech from IEM Kolkata on CSE<br> Looking to collaborate
 
 
 ## 🌐 Socials:
